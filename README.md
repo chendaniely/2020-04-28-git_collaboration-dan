@@ -1,4 +1,4 @@
-# 2020-04-24: Git Collaboration Notes
+# 2020/04/24: Git Collaboration
 
 Git collaboration workshop
 
@@ -27,4 +27,3 @@ Git collaboration workshop
 - `git fetch --prune`: cleans up the refrences in your `git log --oneline --graph --decorate --all`
 - `git branch -d <branch_name>`: delete branch on your local machine
     - it will tell you to move to another branch (e.g., `master`) first
-
