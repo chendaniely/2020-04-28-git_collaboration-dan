@@ -33,3 +33,7 @@ Git collaboration workshop
 - `git rebase <branch>`: if `branch` is `master` replay the current branch off of master
     - will auto merge if possible
     - potentially deal with conflicts
+
+## Add collaborators
+
+in the settings
